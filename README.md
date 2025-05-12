@@ -1,6 +1,6 @@
 # 🧠 Breast Cancer Image Classification using Deep Learning
 
-This project is part of my exploration into medical imaging and AI. It focuses on detecting breast cancer from histopathological images using convolutional neural networks (CNNs). As a pharmacy student with a passion for AI in healthcare, I built this model to understand how deep learning can support early diagnosis and improve patient outcomes.
+This project is part of my exploration into medical imaging and AI. It focuses on detecting breast cancer from histopathological images using convolutional neural networks (CNNs). As a student with a passion for AI in healthcare, I built this model to understand how deep learning can support early diagnosis and improve patient outcomes.
 
 ---
 
